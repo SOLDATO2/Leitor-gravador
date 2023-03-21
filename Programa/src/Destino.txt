@@ -1,0 +1,8 @@
+Codigo 1 
+Nome Computador 
+Marca Dell 
+Valor 3500.0 
+Codigo 2 
+Nome Smartphone 
+Marca iPhone 
+Valor 5500.0 

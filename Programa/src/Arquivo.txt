@@ -1,0 +1,2 @@
+1;Computador;Dell;3500.00
+2;Smartphone;iPhone;5500.00
